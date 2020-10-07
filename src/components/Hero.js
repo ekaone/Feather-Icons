@@ -42,7 +42,7 @@ function Hero() {
           textAlign: 'center',
         }}
       >
-        Icons gratis dari Feather Icons
+        Simply beautiful open source icons
       </h1>
 
       <div
