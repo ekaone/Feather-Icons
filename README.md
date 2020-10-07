@@ -1,24 +1,27 @@
-# feathericons.com
+🚀 Reach documentation [Feather Icons](https://github.com/feathericons/feather)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c1945b2-05df-47a2-a2c6-af04dd3802f4/deploy-status)](https://app.netlify.com/sites/feather/deploys)
-[![Actions Status](https://github.com/feathericons/feathericons.com/workflows/CI/badge.svg)](https://github.com/feathericons/feathericons.com/actions)
+## Author
+✔ Eka Prasetia 🤵
 
-This repo contains the source code for [feathericons.com](https://feathericons.com).
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
+</a>
 
-## Local development
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
+</a>
 
-```shell
-# Download the repo
-git clone https://github.com/feathericons/feathericons.com.git
+<a href="mailto:ekaone3033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
+</a>
 
-# Enter the repo
-cd feathericons.com
+✔ Collection my App
 
-# Install the dependencies
-yarn
+👉🛠 Find example all my [Scratch App](https://github.com/ekaone) 
 
-# Start local development
-yarn develop
-```
+✔ Community
 
-> **Note:** This requires Yarn to be set up locally. See https://yarnpkg.com for more information.
+I am author for two communities in Indonesia
+- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
+- NextJS Indonesia [Next.js-ID](https://github.com/NextJS-Indonesia)
